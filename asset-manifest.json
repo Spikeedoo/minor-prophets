@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/minor-prophets/static/css/main.5f361e03.chunk.css",
+    "main.js": "/minor-prophets/static/js/main.25b40d0a.chunk.js",
+    "main.js.map": "/minor-prophets/static/js/main.25b40d0a.chunk.js.map",
+    "runtime-main.js": "/minor-prophets/static/js/runtime-main.a382f392.js",
+    "runtime-main.js.map": "/minor-prophets/static/js/runtime-main.a382f392.js.map",
+    "static/js/2.64aa8c65.chunk.js": "/minor-prophets/static/js/2.64aa8c65.chunk.js",
+    "static/js/2.64aa8c65.chunk.js.map": "/minor-prophets/static/js/2.64aa8c65.chunk.js.map",
+    "index.html": "/minor-prophets/index.html",
+    "precache-manifest.20186ea41138cc94a4f8369d32276f82.js": "/minor-prophets/precache-manifest.20186ea41138cc94a4f8369d32276f82.js",
+    "service-worker.js": "/minor-prophets/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/minor-prophets/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.64aa8c65.chunk.js.LICENSE.txt": "/minor-prophets/static/js/2.64aa8c65.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/minor-prophets/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a382f392.js",
+    "static/js/2.64aa8c65.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.25b40d0a.chunk.js"
+  ]
+}
