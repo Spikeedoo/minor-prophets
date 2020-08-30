@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8170fb508055c465132801bee33c2e95",
+    "revision": "6b25868db2433f124da2cb2602590452",
     "url": "/minor-prophets/index.html"
   },
   {
-    "revision": "304cbfecf594252055bb",
+    "revision": "230987e47f99a6565168",
     "url": "/minor-prophets/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "8d80c652b9fc6d97effb",
-    "url": "/minor-prophets/static/js/2.64aa8c65.chunk.js"
+    "revision": "f3e76299a439354a6e3f",
+    "url": "/minor-prophets/static/js/2.aac5b7f5.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/minor-prophets/static/js/2.64aa8c65.chunk.js.LICENSE.txt"
+    "url": "/minor-prophets/static/js/2.aac5b7f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "304cbfecf594252055bb",
-    "url": "/minor-prophets/static/js/main.25b40d0a.chunk.js"
+    "revision": "230987e47f99a6565168",
+    "url": "/minor-prophets/static/js/main.da1c3bae.chunk.js"
   },
   {
     "revision": "c1f002aab613dba85d4e",
