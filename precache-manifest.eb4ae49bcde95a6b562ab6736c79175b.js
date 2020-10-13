@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35b712ff3e6cdf01a2a9809bd82c7cbe",
+    "revision": "1fd7992cab5d94de9bda58de7adc5f0c",
     "url": "/minor-prophets/index.html"
   },
   {
-    "revision": "b4b5170cdadbb4da061e",
-    "url": "/minor-prophets/static/css/main.bcd71c49.chunk.css"
+    "revision": "65bec0d588c73fcbf770",
+    "url": "/minor-prophets/static/css/main.b391273a.chunk.css"
   },
   {
-    "revision": "87f9bfd2e19353cf552a",
-    "url": "/minor-prophets/static/js/2.12031ea5.chunk.js"
+    "revision": "30c3f4587155f62adfd4",
+    "url": "/minor-prophets/static/js/2.468f2f50.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/minor-prophets/static/js/2.12031ea5.chunk.js.LICENSE.txt"
+    "url": "/minor-prophets/static/js/2.468f2f50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4b5170cdadbb4da061e",
-    "url": "/minor-prophets/static/js/main.fbbd4c58.chunk.js"
+    "revision": "65bec0d588c73fcbf770",
+    "url": "/minor-prophets/static/js/main.ebdb5dc0.chunk.js"
   },
   {
     "revision": "c1f002aab613dba85d4e",
